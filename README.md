@@ -7,7 +7,7 @@
 
 
 
-[<img align="left" alt="Eric Tran | LinkedIn" width="150px" src="https://www.linkedin.com/in/eric-tran-985475184/" />][linkedin]
+[<img align="left" alt="Eric Tran | LinkedIn" width="110px" src="https://www.linkedin.com/in/eric-tran-985475184/" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/eric-tran-985475184/
 
