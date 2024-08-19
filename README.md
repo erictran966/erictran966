@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Azure/Cloud Projects</b>
-  - Creating a Live SOC/Honenynet](https://github.com/ACharles813/Azure-Honeynet-Project)
+  - Creating a Live SOC/Honenynet]([https://github.com/ACharles813/Azure-Honeynet-Project](https://github.com/erictran966/Azure-Honeynet-Project))
 
 
 
