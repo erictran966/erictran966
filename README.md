@@ -16,8 +16,7 @@
 
 
 
-
-Here are some ideas to get you started:
+-----------------------------------------------
 
 - 🔭 I’m currently studying for CompTIA Network+
 - 🌱 I’m currently learning all things IT and Cybersecurity
