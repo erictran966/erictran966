@@ -1,7 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Eric! <br/><a href="[https://github.com/erictran966]">Programmer</a>, <a href="https://www.linkedin.com/in/eric-tran-985475184/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Azure/Cloud Projects</b>
+  - Creating a Live SOC/Honenynet](https://github.com/ACharles813/Azure-Honeynet-Project)
+
+
+
+[linkedin]: https://www.linkedin.com/in/eric-tran-985475184/
 
 <!--
-**erictran966/erictran966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
