@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric! <br/><a href="[https://github.com/erictran966]">Programmer</a>, <a href="https://www.linkedin.com/in/eric-tran-985475184/"></a>
+<h1>Hi, I'm Eric! 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
