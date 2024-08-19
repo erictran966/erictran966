@@ -7,7 +7,7 @@
 
 
 
-[linkedin]: [https://www.linkedin.com/in/eric-tran-985475184/]
+[<img align="left" alt="EricTran | LinkedIn" width="22px" src="https://www.linkedin.com/in/eric-tran-985475184/" />][linkedin]
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
