@@ -14,6 +14,10 @@
 
 
 
+
+
+
+
 - 🔭 I’m currently studying for CompTIA Network+
 - 🌱 I’m currently learning all things IT and Cybersecurity
 - 👯 I’m looking to collaborate on more Azure / Cloud based projects
